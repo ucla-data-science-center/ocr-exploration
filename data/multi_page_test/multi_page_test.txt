@@ -1,0 +1,3 @@
+data\multi_page_test\Lorem_Ipsum_Test-1.png
+data\multi_page_test\Lorem_Ipsum_Test-2.png
+data\multi_page_test\Lorem_Ipsum_Test-3.png
