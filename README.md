@@ -2,6 +2,7 @@
 A catch all repo for collecting notes related to OCR notes on related tools, including code notebooks and documentation associated with testing tools.
 
 Directory Contents
+
 OCR_notebook.ipynb
 This Jupyter notebook encapsulates the preliminary code and experiments centered around OCR using Pytesseract. 
 
